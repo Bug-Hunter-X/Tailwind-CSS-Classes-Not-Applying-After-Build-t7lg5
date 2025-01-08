@@ -1,0 +1,3 @@
+# Tailwind CSS Classes Not Applying After Build
+
+This repository demonstrates an uncommon bug where Tailwind CSS classes fail to apply after the build process, even though the styles seem correctly included. The issue is likely related to the build process and how Tailwind CSS integrates with it. The solution involves checking the build process configuration and ensuring that Tailwind CSS is properly processed during the build phase.
